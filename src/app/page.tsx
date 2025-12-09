@@ -1,3 +1,5 @@
+import HomePage from "@/components/page-components/HomePage";
+
 export default function Home() {
-  return <div className="flex"></div>;
+  return <HomePage />;
 }
